@@ -38,14 +38,14 @@ Il FIUP è sempre alla ricerca di volontari, [anche senza esperienza](https://gi
 - Per consigli, critiche o suggerimenti in merito al nostro corso di studi (Laurea Triennale) esiste questo [documento su Google Drive](http://bit.ly/ConsigliInformaticaUniPD)
 - Ogni studente possiede un indirizzo e-mail universitario non configurabile su dispositivi mobili a causa di un blocco.  
 Per ovviare a questo problema, troverete [qua](https://support.google.com/mail/answer/10957?hl=it) la guida per impostare l'inoltro automatico verso un vostro indirizzo.
-- [File .pdf con la presentazione generale del corso di informatica A.A. 2016/2017](goo.gl/QNRVgG)
+<!-- - [File .pdf con la presentazione generale del corso di informatica A.A. 2016/2017](goo.gl/QNRVgG) link non funzionante -->
 - Modulistica per gli [studenti lavoratori](https://mega.nz/#F!XMME2YaL!5-DEm733RrtrMcbzhdrdUQ)
 - Istruzioni per [stampare usando il badge](https://bibliotecadigitale.cab.unipd.it/documenti-e-allegati-news/locandina-ricoh-4-1.pdf)
 
 - Per essere sempre aggiornati sulle iniziative dei Tutor:
-  1. [Pagina Facebook](https://www.facebook.com/tutorinformaticaunipd)
-  2. [Gruppo Facebook](https://www.facebook.com/groups/744397295669920)
-  3. [Link moodle](http://elearning.math.unipd.it/moodle/course/view.php?id=30 )
+   <!-- 0. [Pagina Facebook](https://www.facebook.com/tutorinformaticaunipd) link non funzionante -->
+  1. [Gruppo Facebook](https://www.facebook.com/groups/744397295669920)
+  2. [Link moodle](http://elearning.math.unipd.it/moodle/course/view.php?id=30 )
 
 - Link per impostare la rete [Wi-Fi interna](http://www.studenti.math.unipd.it/index.php?id=wifi)
 - Link per l'accesso ad [Eduroam](http://www.math.unipd.it/it/news/?id=1756)
@@ -57,7 +57,7 @@ Per ovviare a questo problema, troverete [qua](https://support.google.com/mail/a
    3. [Canale YouTube dell'Università degli Studi di Padova](https://www.youtube.com/user/UniPadova)
  
 - Due fonti di notizie interessanti dall'unipd si trovano su 
-  - Il [BO Magazine](https://www.unipd.it/ilbo)
+  - Il [BO Magazine](https://www.unipd.it/ilbo)  <!-- il link non carica -->
   - Il [Vivi Padova](https://www.ilvivipadova.it)  
   - Rivolto alle matricole, l'Università segnala [questo articolo](http://www.ilvivipadova.it/bignami-della-vita-universitaria-matricole-spaesate)
 
@@ -81,8 +81,7 @@ Come tutti sanno, fotocopiare e vendere libri fotocopiati è **illegale**. Quind
 - Dipartimento di Matematica UNIPD: Applicazione ufficiale del Dipartimento di Matematica, contiene orari di aule lezioni e come contattare docenti e personale
 	1. [App Dipartimento per Android](https://play.google.com/store/apps/details?id=it.unipd.math.dm_unipd)
 	2. [App Dipartimento per iOS](https://itunes.apple.com/it/app/dm-unipd/id1124816650)
-- [Uniwhere](http://uniwhere.com/app.php)  
-  Applicazione di terze parti utile per gestire tutta la carriera universitaria (esami, tasse, chat tra colleghi, ...).
+- [Uniwhere](http://uniwhere.com) Applicazione di terze parti utile per gestire tutta la carriera universitaria (esami, tasse, chat tra colleghi, ...).
 - [UniBook](http://www.unibookapp.com/): Commercio Libri anche con membri esterni esterni al FIUP.
 
 ***
@@ -92,17 +91,17 @@ E' preferibile usare software libero e open source in modo da essere meno legati
 Per completezza d'informazione qui sotto sono elencanti anche software proprietari oltre che ad alcuni servizi forniti gratuitamente dall'UniPD.
 
 ### Servizi
-- Dai laboratori P140 e P36 del Paolotti e dal laboratorio in Torre Archimede ogni mese si hanno 300 stampe, in bianco e nero, gratuite. Sullo spazio cloud sono presenti degli utili script e guide per stampare dai laboratori.
+- Dai laboratori P140 e P36 del Paolotti e dal laboratorio in Torre Archimede ogni trimestre si hanno 400 facciate, in bianco e nero, gratuite (azzeramento quote il primo Gennaio, primo Aprile, primo Luglio, primo Ottobre). Sullo spazio cloud sono presenti degli utili script e guide per stampare dai laboratori. Per ulteriori informazioni sulle quote, [clicca qui](https://www.studenti.math.unipd.it/index.php?id=quote#c258)
 - E' possibile abilitare il badge per stampare presso dei punti preposti (tipo le biblioteche). Per far ciò occorre creare un account [qui](http://padova.ricohmyprint.it/RicohmyPrint/Login.aspx).   
   Le istruzioni per usare il servizio possono essere trovate al link indicato sopra.
 
 ### Software
 - Link per ottenere **software Microsoft** (pertanto proprietario) gratuito per uso privato, con l'unica restrizione che non se ne faccia un uso commerciale: [MSDN-AA](http://msdnaa.studenti.math.unipd.it/2011/).
-- Link per ottenere alcune licenze gratuite per la suite **Office 365** di Microsoft: [Office 365](http://www.unipd.it/licenze-office-gratuite?target=Studenti).
+- Link per ottenere alcune licenze gratuite per la suite **Office 365** di Microsoft: [Office 365](https://www.csia.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/microsoft-campus/microsoft-office-365-proplus).
 - E' possibile ottenere una licenza gratuita per **Matlab** [MATLAB | CSIA](https://www.csia.unipd.it/servizi/servizi-utenti-istituzionali/contratti-software-e-licenze/matlab)
 - Iscrivendosi a **GitHub** è possibile accedere ad infiniti repository gratuiti privati e pubblici (utilissimi nei vari corsi di programmazione), oltre che a molte risorse utili per lo sviluppo software. Link per l'iscrizione: [GitHub Student Pack](https://education.github.com/discount_requests/new).
 - Link per ottenere software **JetBrains** in maniera gratuita: [IntelliJ gratis per studenti](https://www.jetbrains.com/student/).  
-  Facciamo comunque notare che la versione gratuita *Community* basta per il corso di *Programmazione concorrente e distribuita* del terzo anno, senza contare il fatto che è possibile utilizzare anche l'IDE *Elicpe*.
+  Facciamo comunque notare che la versione gratuita *Community* basta per il corso di *Programmazione concorrente e distribuita* del terzo anno, senza contare il fatto che è possibile utilizzare anche l'IDE *Elicpse*.
 - Link per l'ottenimento della licenza gratuita di **Astah Professional**, un utilissimo software per realizzare grafici in UML: [Astah License Request](http://astah.net/student-license-request)
 
 ***
@@ -116,6 +115,7 @@ Ai seguenti link potrete trovare qualche informazione in più.
 * Playlist di tutorial LaTeX su Youtube, in inglese: [LaTeX Tutorials](http://www.youtube.com/playlist?list=PL1D4EAB31D3EBC449) 
 * Introduzione online gratis a LaTeX, in inglese: [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
 * Link alla pagina Wiki su come strutturare un documento LaTeX, in inglese: [LaTeX Document Structure](https://en.wikibooks.org/wiki/LaTeX/Document_Structure)
+* Pdf in italiano: [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX.html)
 
 **Git e GitHub**
 * [Tutorial interattivo su Git](https://www.codeschool.com/courses/try-git)
@@ -125,7 +125,7 @@ Ai seguenti link potrete trovare qualche informazione in più.
 **Generali**
 * Link a StackExchange, sito utilissimo per qualsiasi domanda abbiate: [StackExchange](https://tex.stackexchange.com) 
 
-Potete trovare il FIUP anche su GitHub dove da poco è stata creata l’organizzazione per gestire tutto il codice inerente programmi, esercizi di programmazione e documenti in LaTeX. [Questo](https://github.com/FIUP) il link.
+Potete trovare il FIUP anche su GitHub dove è stata creata l’organizzazione per gestire tutto il codice inerente programmi, esercizi di programmazione e documenti in LaTeX. [Questo](https://github.com/FIUP) il link.
 
 ***
 
@@ -136,7 +136,7 @@ In ogni caso sì, c’è chi vende i libri usati per molti dei corsi in questo g
 Nel gruppo indicato è possibile anche vendere e scambiare dispense e appunti, purché si rispetti sempre il diritto d'autore.
 
 2.	**Esiste un luogo dove posso vedere gli appelli degli anni precedenti, gli appunti o qualsiasi altra cosa che mi possa tornare utile per studiare?**  
-Certamente, li puoi trovare sugli spazi cloud dove sono presenti il 90% degli appelli di qualsiasi corso degli anni precedenti (a volte anche con relative soluzioni), assieme ad esercizi, riassunti e altri file utili. Il codice degli esercizi di programmazione lo trovi esclusivamente su Github, non caricarlo su altri spazi cloud in quanto verrà eliminato. 
+Certamente, li puoi trovare sugli spazi cloud dove sono presenti il 90% degli appelli di qualsiasi corso degli anni precedenti (a volte anche con relative soluzioni), assieme ad esercizi, riassunti e altri file utili. Il codice degli esercizi di programmazione lo trovi *esclusivamente* su Github, **non** caricarlo su altri spazi cloud in quanto verrà eliminato. 
 
 3.	**Che bella cosa! Come posso accedere agli spazi cloud?** 
 Per far sì che tu possa vedere la nostra cartella condivisa è sufficiente fare un post con il tag [MEGA] nel gruppo Facebook o telegram, chiedendo di essere aggiunto e lasciando la tua e-mail con la quale ti sarai precedentemente iscritto al servizio cloud. Se invece non vuoi rendere pubblica il tuo indirizzo e-mail puoi contattare privatamente [un amministratore del FIUP](http://on.fb.me/1XC4dHW) e chiedere di essere aggiunto.  
@@ -157,29 +157,30 @@ Come detto prima, sono dei forum di Moodle, dedicati agli scambi di opinioni o i
 Per accedervi il link è [questo](http://bit.ly/1JP4dNz) mentre le credenziali sono le seguenti:  
     -	La password per il forum Studenti-Studenti è: 	Stud#Forum!  
     -	La password per il forum Studenti-Docenti è: 	St-Doc@Forum!  
+
 **ATTENZIONE:** I forum sopra indicati seppure ancora attivi, sono di fatto inutilizzati e sono stati sostituiti da  un gruppo facebook che trovi [qui](https://www.facebook.com/groups/CCS.informatica.unipd/)
 
-7.	**Ci sono altri forum utili?**  
-Si, c’è quello di [Programmazione per il Primo anno della Laurea Triennale](goo.gl/xO9J2o).
+<!-- 7.	**Ci sono altri forum utili?**  
+Si, c’è quello di [Programmazione per il Primo anno della Laurea Triennale](goo.gl/xO9J2o). il link non funziona -->
 
-8.	**Tutto molto interessante, ma noi siamo informatici. Non è che ci sono app o qualcosa di simile di utile?**  
+7.	**Tutto molto interessante, ma noi siamo informatici. Non è che ci sono app o qualcosa di simile di utile?**  
 Certamente, tutto ciò che potrebbe esserti utile è stato raccolto nel capitolo [App utili](#app-utili).
 
-9.	**Per quanto riguarda il badge? Ci si può fare qualcosa?**  
+8.	**Per quanto riguarda il badge? Ci si può fare qualcosa?**  
 Il badge va attivato e può essere utilizzato per le fotocopie. Ecco tutti i link utili:  
     -	[Cartella su cloud con tutte le info](http://bit.ly/1VJ2z5n)
     -	[Locandina ufficiale](http://bit.ly/1NdIgu0)
 
-10.	**Wi-Fi? C’è?**  
+9.	**Wi-Fi? C’è?**  
 Certamente, mica siamo a lettere (ovviamente scherziamo)! Il Wi-Fi per noi è essenziale!  
 Eccoti un paio di link per impostarlo sul tuo smartphone/tablet o portatile: 
   - [WiFi Interno](http://www.studenti.math.unipd.it/index.php?id=wifi)
   - [Eduroam](http://www.math.unipd.it/it/news/?id=1756)
 
-11.	**I tutor? Cosa sono e come funzionano?**  
-I tutor sono studenti che si mettono a disposizione per determinati orari durante la settimana al fine di esercitarsi per i vari corsi. Tutte le informazioni utili puoi trovarle al seguente indirizzo: http://bit.ly/1XC7YNA
+10.	**I tutor? Cosa sono e come funzionano?**  
+I tutor sono studenti che si mettono a disposizione per determinati orari durante la settimana al fine di esercitarsi per i vari corsi. Tutte le informazioni utili puoi trovarle al seguente [indirizzo](http://bit.ly/1XC7YNA)
 
-12.	**Questa università è social?**  
+11.	**Questa università è social?**  
 Certamente, ecco tutti i link utili:  
     - [Pagina Facebook ufficiale dell’Università di Padova](http://on.fb.me/1g5vsJ3)
     - [Account Twitter ufficiale dell’Università di Padova](http://bit.ly/1NXNyLB)
