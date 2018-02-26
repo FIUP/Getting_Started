@@ -1,4 +1,4 @@
-# CLOUD FAQ v. 3.5 (12-01-2018)
+﻿# CLOUD FAQ v. 3.5 (12-01-2018)
 
 - ***A che serve questo spazio cloud?*** Serve a condividere appunti, esami, esercizi e idee tra studenti iscritti ai corsi di informatica delle lauree triennali e magistrali presso la Scuola di Scienze dell’Università degli Studi di Padova. Non è in alcun modo collegato con l’università ma è uno spazio gestito da studenti, per studenti. Lo spazio FIUP è uno spazio sociale ed è un servizio gratuito. 
 
@@ -6,9 +6,9 @@
 
 - ***Che vuol dire spazio sociale?*** Si tratta di un servizio completamente gratuito gestito da volontari e aperto a tutti. Chiunque può contribuire caricando materiale, in modo che questo spazio possa restare utile e costantemente aggiornato. Non siate timidi, condividete risorse non presenti che ritenete possano interessare tutti, come  appunti, esercizi, esami e quant'altro. Utilizzandolo, dichiarate di accettare ed aderire al nostro [Codice di condotta](https://github.com/FIUP/Getting-Started/blob/master/CODE_OF_CONDUCT.md).
 
-- ***In quali altri modi posso contribuire al FIUP?*** Puoi contribuire in molti modi, alcuni dei quali sono riepilogati nelle [Linee guida per contribuire] (https://github.com/FIUP/Getting-Started/blob/master/CONTRIBUTING.md#altri-tipi-di-contributo).
+- ***In quali altri modi posso contribuire al FIUP?*** Puoi contribuire in molti modi, alcuni dei quali sono riepilogati nelle [Linee guida per contribuire](https://github.com/FIUP/Getting-Started/blob/master/CONTRIBUTING.md#altri-tipi-di-contributo).
 
-- ***Come faccio ad iscrivermi o a cambiare i miei privilegi?*** Devi prima di tutto registrarti [al servizio cloud](https://mega.nz/) con un tuo indirizzo email . Successivamente basta che ci lasci la mail (con la quale ti sei iscritto) chiedendo di venire aggiunto, in uno dei modi seguenti:
+- ***Come faccio ad iscrivermi o a cambiare i miei privilegi?*** Devi prima di tutto registrarti [al servizio cloud](https://mega.nz/) con un tuo indirizzo e-mail . Successivamente basta che ci lasci la mail (con la quale ti sei iscritto) chiedendo di venire aggiunto, in uno dei modi seguenti:
 	1. Mandando una mail all’indirizzo [fiup.unipd@gmail.com](mailto:fiup.unipd@gmail.com)
 	2. Contattando tramite messaggio privato un amministratore
 	3. Postando un commento nel gruppo [Facebook](https://www.facebook.com/groups/fiupd) o [Telegram](t.me/fiupd)
@@ -25,9 +25,7 @@
 
 - ***Voglio caricare un file, come faccio?*** Se sei iscritto, puoi caricare i file tu stesso, da sito web, semplicemente trascinando i file dentro la cartella adatta. Accertati che il file non sia o contenga codice versionabile; in questo caso caricalo sul repository corretto dell'[organizzazione FIUP su GitHub](https://github.com/FIUP/).
 
-- ***Cos'è un file versionabile? Perché deve stare su GitHub? Dove carico cosa?***
-    
-	1. I _file versionabili_ sono file per i quali è interessante tracciarne le modifiche tra una versione e un'altra. I _file binari_ al contrario, sono file per i quali tracciarne le modifiche ha poco senso o potrebbe essere controproducente. 
+- ***Cos'è un file versionabile? Perché deve stare su GitHub? Dove carico cosa?*** I _file versionabili_ sono file per i quali è interessante tracciarne le modifiche tra una versione e un'altra. I _file binari_ al contrario, sono file per i quali tracciarne le modifiche ha poco senso o potrebbe essere controproducente. 
 	Ad es. un file sorgente con estensione `.cpp`, è versionabile, in quanto è utile tracciare le modifiche che i vari utenti apportano. Al contrario un file  `.pdf` non verrà modificato e potrebbe appesantire i repository.
 
 - ***Son stato aggiunto/a ma non riesco ad accedere o a vedere la cartella.*** 
@@ -50,7 +48,7 @@
 		* [Per Linux](https://www.chimerarevo.com/linux/ubuntu-come-impostare-o-cambiare-i-dns-19494/)
 		* [Per Internet Key](https://just-share-it.blogspot.it/2008/12/come-modificare-i-dns-della-vodafane.html)
 	
-- ***OK accedo al sito ma dov’è il materiale?*** Click sulla cartella con gli omini, sotto l'icona con la nuvola in alto a sinistra.
+- ***OK accedo al sito ma dov’è il materiale?*** Click sulla cartella con la freccetta, sotto l'icona con la nuvola in alto a sinistra.
 
 - ***Ho trovato un doppione, cosa devo fare?*** Se hai i privilegi in full access puoi eliminarlo tu stesso tenendo la versione più recente, altrimenti contatta un amministratore.
 
